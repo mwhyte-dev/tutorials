@@ -8,4 +8,4 @@ Example code for blog posts written over @ codenerve.com
 
 | Module | Blog Post | Readme |
 |:-------|:----------|:-------|
-| spring-cloud-kotlin-zipkin | [link](spring-cloud-kotlin-zipkin/readme.md) | [link](todo) |
+| spring-cloud-kotlin-zipkin | [link](https://codenerve.com) | [link](spring-cloud-kotlin-zipkin/readme.md) |
