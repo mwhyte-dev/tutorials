@@ -69,25 +69,4 @@ public class ListSorting {
         // the letter 3 occurs the most in this book.
         assertThat(sortedList.get(0), is(equalTo("Design Patterns: Elements of Reusable Object-Oriented Software")));
     }
-
-
-
-    // stream of collection
-        // list
-        // map
-
-    // sorting
-    // filtering
-    // map
-    // collect
-    // reduce
-    // count
-    // min/max
-
-
-    // stream of arrays
-    // stream of file
-    // stream builder
-    // parallel streams
-
 }
