@@ -1,6 +1,6 @@
 # java cookbook
 
-Sample code for article [@codenerve.com](https://www.codenerve.com/) #TODO update link
+Sample code for article [@codenerve.com](https://www.codenerve.com/java-streams-cookbook/)
 
 ## Contents
 - Basic operations on lists

@@ -4,6 +4,7 @@ import com.codenerve.streams.domain.Book;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
+import java.util.Optional;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
@@ -67,6 +68,15 @@ public class ListFiltering {
                 .collect(Collectors.toList());
 
         assertThat(fiveStarBooks.size(), is(equalTo(3)));
+    }
+
+    @Test
+    void find_a_robert_martin_book() {
+        Optional<Book> aRobertMartinBook = books.stream()
+                .filter(book -> book.getAuthor().contains("Martin Fowler"))
+                .findAny();
+
+        assertThat(aRobertMartinBook.get().getAuthor(), is(equalTo("Martin Fowler")));
     }
 
     @Test
