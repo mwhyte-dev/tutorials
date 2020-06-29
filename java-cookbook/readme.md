@@ -1,5 +1,7 @@
 # java cookbook
 
+![Java CI with Maven](https://github.com/codenerve-com/tutorials/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 Sample code for article [@codenerve.com](https://www.codenerve.com/java-streams-cookbook/)
 
 ## Contents
