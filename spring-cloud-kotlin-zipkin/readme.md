@@ -19,13 +19,20 @@ To create and run the docker containers you can use:
 ```bash
 docker-compose -f docker-compose.yml up -d
 ```
-or the commands manually within this script. 
 
 ---
 
 You can open up the relevant urls for the demo using:
 ```bash
 ./openUrls.sh
+```
+Or just copy the links into your browser 
+
+---
+
+BONUS: use apache bench mark to fill up zipkin with some spans
+```bash
+ ab -n 500 -c 200 "http://localhost:8080/tax?name=michael"
 ```
 
 ---
