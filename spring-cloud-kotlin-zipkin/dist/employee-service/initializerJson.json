@@ -1,0 +1,21 @@
+[
+  {
+    "httpRequest": {
+      "method": "GET",
+      "path": "/employeeService"
+    },
+    "httpResponse": {
+      "headers": {
+        "content-type": [
+          "application/json"
+        ]
+      },
+      "body": "{\"id\": 1, \"employeeName\": \"Joe Bloggs\", \"employeeSalary\": 100000, \"employeeAge\": 35, \"profileImage\": \"some picture\"}",
+      "statusCode": 200,
+      "delay": {
+        "timeUnit": "SECONDS",
+        "value": 3
+      }
+    }
+  }
+]
