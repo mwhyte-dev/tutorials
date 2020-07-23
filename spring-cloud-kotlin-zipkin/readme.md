@@ -32,7 +32,7 @@ Or just copy the links into your browser
 
 BONUS: use apache bench mark to fill up zipkin with some spans
 ```bash
- ab -n 500 -c 200 "http://localhost:8080/tax?name=michael"
+ ab -n 500 -c 20 "http://localhost:8080/tax?name=michael"
 ```
 
 ---
