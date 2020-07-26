@@ -3,7 +3,7 @@
 ###### Overview: 
 This application demonstrates how to set up zipkin tracing in a spring boot kotlin app.
 
-Full blog post: <TODO>
+Full blog post: [spring-cloud-zipkin](https://codenerve.com/spring-cloud-zipkin/index.html)
 
 ###### Pre-req:
 - The ability to run a kotlin application (IDE or CMD Line)
@@ -12,8 +12,11 @@ Full blog post: <TODO>
 
 ###### Quick start:
 
-The demo creates three docker containers. A Zipkin server to receive tracing data 
-and two mockserver apis to mock out downstream services. 
+The demo creates three containerized services. 
+
+A Zipkin server to receive tracing data and two mockserver api's to mock out downstream services.
+
+![](diagram.jpg) 
 
 To create and run the docker containers you can use:
 ```bash
