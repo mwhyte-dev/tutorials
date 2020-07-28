@@ -1,3 +1,6 @@
+.DS_Store
+**/.DS_Store
+
 .idea
 **/.idea
 
@@ -6,3 +9,8 @@
 
 target/
 **/target/
+
+.gradle
+**/.gradle
+/build/
+**/build/
