@@ -6,6 +6,7 @@ Example code for blog posts written over @ [codenerve.com](https://codenerve.com
 
 
 ### Kotlin
+![Kotlin CI with Gradle](https://github.com/codenerve-com/tutorials/workflows/Kotlin%20CI%20with%20Gradle/badge.svg)
 
 Examples under kotlin/
 
