@@ -6,8 +6,10 @@ name: Kotlin CI with Gradle
 on:
   push:
     branches: [ master ]
+    paths: kotlin
   pull_request:
     branches: [ master ]
+    paths: kotlin
 
 jobs:
   build:
