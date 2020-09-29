@@ -7,7 +7,7 @@ Full blog post: [spring-cloud-zipkin](https://codenerve.com/spring-cloud-zipkin/
 
 ###### Pre-req:
 - The ability to run a kotlin application (IDE or CMD Line)
-- Maven
+- Gradle
 - Docker compose  ([docs](https://docs.docker.com/compose/install/))
 
 ###### Quick start:
