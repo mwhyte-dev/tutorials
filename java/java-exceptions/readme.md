@@ -6,7 +6,7 @@ What is an Exception?
 
 Hierarchy:
 
-<img src="../docs/images/exception-hierarchy.png" width=800 alt="exception-hierarchy.png">
+<img src="../docs/images/exception-hierarchy.png" width=600 alt="exception-hierarchy.png">
 
 
 Types of Exception
