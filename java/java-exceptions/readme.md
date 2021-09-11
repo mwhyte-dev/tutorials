@@ -4,8 +4,9 @@ Intro / Agenda
 What is an Exception?
 
 
-Hierarchy
-![](../docs/images/exception-hierarchy.png)
+Hierarchy:
+
+<img src="../docs/images/exception-hierarchy.png" width=400 alt="exception-hierarchy.png">
 
 
 Types of Exception
