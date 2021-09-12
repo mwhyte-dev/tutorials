@@ -1,6 +1,6 @@
-package com.codenerve.streams.lists;
+package dev.mwhyte.streams.lists;
 
-import com.codenerve.streams.comparators.CustomComparator;
+import dev.mwhyte.streams.comparators.CustomComparator;
 import org.junit.jupiter.api.Test;
 
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package com.codenerve.streams.domain;
+package dev.mwhyte.streams.domain;
 
 public class Book implements Comparable<Book>{
 

@@ -1,6 +1,6 @@
-package com.codenerve.streams.lists;
+package dev.mwhyte.streams.lists;
 
-import com.codenerve.streams.domain.Book;
+import dev.mwhyte.streams.domain.Book;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

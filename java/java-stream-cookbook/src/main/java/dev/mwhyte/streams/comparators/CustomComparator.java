@@ -1,4 +1,4 @@
-package com.codenerve.streams.comparators;
+package dev.mwhyte.streams.comparators;
 
 import java.util.Comparator;
 
