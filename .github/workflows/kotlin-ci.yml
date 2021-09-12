@@ -7,11 +7,13 @@ on:
   push:
     branches:
       - '**'
-    paths: kotlin
+    paths:
+      - 'kotlin'
   pull_request:
     branches:
       - '**'
-    paths: kotlin
+    paths:
+      - 'kotlin'
 
 jobs:
   build:
