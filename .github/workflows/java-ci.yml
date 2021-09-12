@@ -5,10 +5,12 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ * ]
+    branches:
+      - '**'
     paths: java
   pull_request:
-    branches: [ * ]
+    branches:
+      - '**'
     paths: java
 
 jobs:

@@ -5,10 +5,12 @@ name: Kotlin CI with Gradle
 
 on:
   push:
-    branches: [ * ]
+    branches:
+      - '**'
     paths: kotlin
   pull_request:
-    branches: [ * ]
+    branches:
+      - '**'
     paths: kotlin
 
 jobs:
