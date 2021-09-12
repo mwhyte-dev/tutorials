@@ -3,7 +3,7 @@ name: Kotlin CI
 on:
   push:
     paths:
-      - kotlin
+      - 'kotlin/**'
 
 jobs:
   build:
