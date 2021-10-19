@@ -1,6 +1,6 @@
 # tutorials
 
-Example code for blog posts written over @ [codenerve.com](https://codenerve.com/index.html)
+Example code for blog posts written over @ [mwhyte.dev](https://mwhyte.dev/)
 
 ---
 
