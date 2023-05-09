@@ -6,7 +6,7 @@ Example code for blog posts written over @ [codenerve.com](https://codenerve.com
 
 
 ### Kotlin
-![Kotlin CI with Gradle](https://github.com/codenerve-com/tutorials/workflows/Kotlin%20CI%20with%20Gradle/badge.svg)
+[![Kotlin CI](https://github.com/mwhyte-dev/tutorials/actions/workflows/kotlin-ci.yml/badge.svg)](https://github.com/mwhyte-dev/tutorials/actions/workflows/kotlin-ci.yml)
 
 Examples under kotlin/
 
@@ -18,7 +18,7 @@ Examples under kotlin/
 ---
 
 ### Java
-![Java CI with Maven](https://github.com/codenerve-com/tutorials/workflows/Java%20CI%20with%20Maven/badge.svg)
+[![Java CI](https://github.com/mwhyte-dev/tutorials/actions/workflows/java-ci.yml/badge.svg)](https://github.com/mwhyte-dev/tutorials/actions/workflows/java-ci.yml)
 
 Examples under java/
 
